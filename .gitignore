@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and local files - never commit these
+*.pem
+.env
+*.key
+.DS_Store
